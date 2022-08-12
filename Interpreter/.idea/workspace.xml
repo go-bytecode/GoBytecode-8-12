@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0c8ec87-e49b-4854-b9c7-aea126442e09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/instruction.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject2/src/main/ssa7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/ethereum/create.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/ethereum/go-ethereum/core/vm/evm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pro2/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Program Files\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2D9mPc7B00ZhP1qmHZ1RZS8E0Nz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\go\src\Project3interp\src" />
+      <recent name="D:\go\src\Project3interp\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build Project3interp/src">
+    <configuration name="go build Project3interp/src" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="Project3interp" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/main.go" />
+      <package value="Project3interp/src" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Project3interp/src/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Project3interp" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/main/main.go" />
+      <package value="Project3interp/src/main" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build Project3interp/src" />
+        <item itemvalue="Go Build.go build Project3interp/src/main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="138" key="#go_build_Project3interp/src" timestamp="1660123916220">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="553" y="138" key="#go_build_Project3interp/src/0.0.1707.1027@0.0.1707.1027" timestamp="1660123916220" />
+    <state x="553" y="138" key="#go_build_Project3interp/src/main" timestamp="1660122994203">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="553" y="138" key="#go_build_Project3interp/src/main/0.0.1707.1027@0.0.1707.1027" timestamp="1660122994203" />
+    <state x="634" y="268" key="FileChooserDialogImpl" timestamp="1660123914724">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="634" y="268" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1660123914724" />
+    <state width="1663" height="277" key="GridCell.Tab.0.bottom" timestamp="1660125746414">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="277" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1660125746414" />
+    <state width="1663" height="277" key="GridCell.Tab.0.center" timestamp="1660125746414">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="277" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1660125746414" />
+    <state width="1663" height="277" key="GridCell.Tab.0.left" timestamp="1660125746414">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="277" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1660125746414" />
+    <state width="1663" height="277" key="GridCell.Tab.0.right" timestamp="1660125746414">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="277" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1660125746414" />
+    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup" timestamp="1660122301939">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1660122301939" />
+  </component>
+</project>
